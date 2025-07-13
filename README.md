@@ -10,6 +10,11 @@ This repository explores two advanced intrinsic symmetry detection methods for C
 *   Spectra 1.1.0 (https://spectralib.org/)
 *   Task Thread Pool Library (https://github.com/alugowski/task-thread-pool)
 
+## 3D Models
+
+*   https://segeval.cs.princeton.edu/
+*   https://cvg.cit.tum.de/data/datasets/kids
+
 ## Project Report
 
 A detailed report is included in the following link, providing a comprehensive overview of the project, including implementation details, performance analysis, and conclusions.
