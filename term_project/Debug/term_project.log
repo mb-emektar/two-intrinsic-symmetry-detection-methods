@@ -1,0 +1,83 @@
+﻿  Dijkstra.cpp
+  Display.cpp
+  DistanceMatrixManager.cpp
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\DistanceMatrixManager.cpp(19,20): warning C4244: 'return': conversion from '_Ty' to 'int', possible loss of data
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\DistanceMatrixManager.cpp(19,20): warning C4244:         with
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\DistanceMatrixManager.cpp(19,20): warning C4244:         [
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\DistanceMatrixManager.cpp(19,20): warning C4244:             _Ty=float
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\DistanceMatrixManager.cpp(19,20): warning C4244:         ]
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\DistanceMatrixManager.cpp(34,23): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\DistanceMatrixManager.cpp(34,23): warning C4244:         with
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\DistanceMatrixManager.cpp(34,23): warning C4244:         [
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\DistanceMatrixManager.cpp(34,23): warning C4244:             _Ty=float
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\DistanceMatrixManager.cpp(34,23): warning C4244:         ]
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\DistanceMatrixManager.cpp(40,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  IntrinsicSymmetryDetector.cpp
+  Isocurve.cpp
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(77,23): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(86,21): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(176,23): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(177,31): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(181,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(208,23): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(209,31): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(214,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(238,23): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(239,31): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(244,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(285,23): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(286,31): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(290,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(302,23): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(304,29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(312,23): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(313,31): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(317,27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(361,23): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(365,27): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(401,27): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(489,23): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(523,27): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(627,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(627,38): warning C4305: '+=': truncation from 'double' to 'float'
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(633,23): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(638,27): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(652,23): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(660,18): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(689,23): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(801,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(811,23): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(815,27): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(822,31): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(837,34): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(893,22): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(897,27): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(915,23): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(924,31): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(961,23): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(963,27): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(967,35): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(1000,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(1006,38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(1010,38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+  Mesh.cpp
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Mesh.cpp(49,20): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Mesh.cpp(51,20): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Mesh.cpp(135,20): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Mesh.cpp(168,7): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Painter.cpp
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Painter.cpp(14,23): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Painter.cpp(14,20): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Painter.cpp(14,17): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Painter.cpp(90,23): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Painter.cpp(102,20): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Painter.cpp(105,20): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Painter.cpp(124,20): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Painter.cpp(190,22): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Painter.cpp(220,22): warning C4018: '<': signed/unsigned mismatch
+  Sampling.cpp
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Sampling.cpp(76,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Isocurve.cpp(482,1): warning C4715: 'Isocurve::createHarmonicIsocurves': not all control paths return a value
+  term_project.vcxproj -> D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Debug\term_project.exe

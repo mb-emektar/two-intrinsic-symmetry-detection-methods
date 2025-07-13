@@ -1,0 +1,126 @@
+﻿  Dijkstra.cpp
+  Display.cpp
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Display.cpp(234,23): warning C4018: '>=': signed/unsigned mismatch
+  DistanceMatrixManager.cpp
+  IntrinsicSymmetryDetector.cpp
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\IntrinsicSymmetryDetector.cpp(391,68): warning C4018: '>': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\IntrinsicSymmetryDetector.cpp(480,49): warning C4018: '>': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\IntrinsicSymmetryDetector.cpp(603,27): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Mesh.cpp
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Mesh.cpp(49,20): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Mesh.cpp(51,20): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Mesh.cpp(145,20): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Mesh.cpp(178,7): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  MobiusSymmetryDetector.cpp
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(26,27): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(90,20): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(90,20): warning C4244:         with
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(90,20): warning C4244:         [
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(90,20): warning C4244:             _Ty=float
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(90,20): warning C4244:         ]
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(159,47): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(159,36): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(245,75): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(245,64): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(245,53): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(257,23): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(402,49): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(402,38): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(455,49): warning C4244: 'argument': conversion from '_Ty' to 'const std::complex<float>::_Ty', possible loss of data
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(455,49): warning C4244:         with
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(455,49): warning C4244:         [
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(455,49): warning C4244:             _Ty=double
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(455,49): warning C4244:         ]
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(455,36): warning C4244: 'argument': conversion from '_Ty' to 'const std::complex<float>::_Ty', possible loss of data
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(455,36): warning C4244:         with
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(455,36): warning C4244:         [
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(455,36): warning C4244:             _Ty=double
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(455,36): warning C4244:         ]
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(456,49): warning C4244: 'argument': conversion from '_Ty' to 'const std::complex<float>::_Ty', possible loss of data
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(456,49): warning C4244:         with
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(456,49): warning C4244:         [
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(456,49): warning C4244:             _Ty=double
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(456,49): warning C4244:         ]
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(456,36): warning C4244: 'argument': conversion from '_Ty' to 'const std::complex<float>::_Ty', possible loss of data
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(456,36): warning C4244:         with
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(456,36): warning C4244:         [
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(456,36): warning C4244:             _Ty=double
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(456,36): warning C4244:         ]
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(457,49): warning C4244: 'argument': conversion from '_Ty' to 'const std::complex<float>::_Ty', possible loss of data
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(457,49): warning C4244:         with
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(457,49): warning C4244:         [
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(457,49): warning C4244:             _Ty=double
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(457,49): warning C4244:         ]
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(457,36): warning C4244: 'argument': conversion from '_Ty' to 'const std::complex<float>::_Ty', possible loss of data
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(457,36): warning C4244:         with
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(457,36): warning C4244:         [
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(457,36): warning C4244:             _Ty=double
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(457,36): warning C4244:         ]
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(458,49): warning C4244: 'argument': conversion from '_Ty' to 'const std::complex<float>::_Ty', possible loss of data
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(458,49): warning C4244:         with
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(458,49): warning C4244:         [
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(458,49): warning C4244:             _Ty=double
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(458,49): warning C4244:         ]
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(458,36): warning C4244: 'argument': conversion from '_Ty' to 'const std::complex<float>::_Ty', possible loss of data
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(458,36): warning C4244:         with
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(458,36): warning C4244:         [
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(458,36): warning C4244:             _Ty=double
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\MobiusSymmetryDetector.cpp(458,36): warning C4244:         ]
+  Painter.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math_defines.h(23,9): warning C4005: 'M_E': macro redefinition
+  (compiling source file 'Painter.cpp')
+      C:\Coin3D\include\Inventor\C\basic.h(79,9):
+      see previous definition of 'M_E'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math_defines.h(24,9): warning C4005: 'M_LOG2E': macro redefinition
+  (compiling source file 'Painter.cpp')
+      C:\Coin3D\include\Inventor\C\basic.h(82,9):
+      see previous definition of 'M_LOG2E'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math_defines.h(25,9): warning C4005: 'M_LOG10E': macro redefinition
+  (compiling source file 'Painter.cpp')
+      C:\Coin3D\include\Inventor\C\basic.h(85,9):
+      see previous definition of 'M_LOG10E'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math_defines.h(26,9): warning C4005: 'M_LN2': macro redefinition
+  (compiling source file 'Painter.cpp')
+      C:\Coin3D\include\Inventor\C\basic.h(88,9):
+      see previous definition of 'M_LN2'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math_defines.h(30,9): warning C4005: 'M_PI_4': macro redefinition
+  (compiling source file 'Painter.cpp')
+      C:\Coin3D\include\Inventor\C\basic.h(103,9):
+      see previous definition of 'M_PI_4'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math_defines.h(31,9): warning C4005: 'M_1_PI': macro redefinition
+  (compiling source file 'Painter.cpp')
+      C:\Coin3D\include\Inventor\C\basic.h(112,9):
+      see previous definition of 'M_1_PI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math_defines.h(32,9): warning C4005: 'M_2_PI': macro redefinition
+  (compiling source file 'Painter.cpp')
+      C:\Coin3D\include\Inventor\C\basic.h(115,9):
+      see previous definition of 'M_2_PI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math_defines.h(35,9): warning C4005: 'M_SQRT1_2': macro redefinition
+  (compiling source file 'Painter.cpp')
+      C:\Coin3D\include\Inventor\C\basic.h(124,9):
+      see previous definition of 'M_SQRT1_2'
+  
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Painter.cpp(14,23): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Painter.cpp(14,20): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Painter.cpp(14,17): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Painter.cpp(90,23): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Painter.cpp(102,20): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Painter.cpp(105,20): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Painter.cpp(124,20): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Painter.cpp(190,23): warning C4018: '<': signed/unsigned mismatch
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Painter.cpp(288,23): warning C4018: '<': signed/unsigned mismatch
+  Sampling.cpp
+D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Sampling.cpp(76,20): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 18884 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  term_project.vcxproj -> D:\others\_METU\ceng_metu\third_semester\CENG589 Digital Geometry Processing\term_project\Release\term_project.exe
